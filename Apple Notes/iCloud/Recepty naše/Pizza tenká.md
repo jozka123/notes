@@ -12,3 +12,5 @@ kynout na 35 stupňů 10-15 minut
 potrit okraje zbytkem oleje
 nedávat moc kečupu 
 salám nakrájet ať se nesmrskne
+
+![[Pasted image 20260608113138.png]]
