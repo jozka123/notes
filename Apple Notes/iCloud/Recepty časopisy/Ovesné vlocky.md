@@ -1,0 +1,1 @@
+![[snidani potési nejen odpúrce.png]]

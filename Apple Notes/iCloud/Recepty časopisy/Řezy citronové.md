@@ -1,0 +1,1 @@
+![[ronovou polevou a nakrajime na iezy. Müzeme ozdobit.jpeg]]

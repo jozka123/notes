@@ -1,0 +1,1 @@
+![[3 minuty louhovat. Poté piecedte..jpeg]]

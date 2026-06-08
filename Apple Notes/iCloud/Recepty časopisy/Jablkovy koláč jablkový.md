@@ -1,0 +1,1 @@
+![[sólo pro jablko.heic]]

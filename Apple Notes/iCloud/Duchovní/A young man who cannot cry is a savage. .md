@@ -1,0 +1,1 @@
+An old man who cannot laught is a fool.

@@ -1,0 +1,1 @@
+![[cup low-fat Real California cottage cheese.jpeg]]

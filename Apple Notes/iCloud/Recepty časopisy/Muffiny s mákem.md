@@ -1,0 +1,1 @@
+![[Nová poznámka 4.jpeg]]

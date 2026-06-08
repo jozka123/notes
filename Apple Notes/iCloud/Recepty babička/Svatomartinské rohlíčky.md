@@ -1,0 +1,1 @@
+40dkg hladké, 1 máslo, 1 šlehačka - vypracovat, na 2 hod do ledničky, pak rozdělit na 8 kuliček, každou rozválet na 6 dílů, naplnit, na plechu potřít vajíčkem, na 180°C péct 10-12 min, horké obalit v cukru (dělám z poloviční dávky, je z toho 24 kousků, které zmizí ještě teplé)

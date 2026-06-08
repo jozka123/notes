@@ -1,0 +1,10 @@
+{
+	"id": "vault-backup",
+	"name": "Vault Backup",
+	"version": "0.2.0",
+	"minAppVersion": "1.0.0",
+	"description": "Create local ZIP backups of your vault with automatic retention management.",
+	"author": "Masahiro Hiramori",
+	"authorUrl": "https://github.com/mshr-h",
+	"isDesktopOnly": true
+}

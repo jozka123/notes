@@ -1,0 +1,12 @@
+{
+  "backupFolderPathWindows": "C:\\Users\\fojtu\\backup-vault",
+  "backupFolderPathUnix": "",
+  "filenameTemplate": "{{vault}}_{{datetime:YYYY-MM-DD_HHmmss}}",
+  "compressionLevel": 6,
+  "runOnStartup": false,
+  "startupDelayMs": 5000,
+  "runOnShutdown": false,
+  "retentionKeepLastN": 10,
+  "retentionKeepDays": 30,
+  "retentionMode": "or"
+}

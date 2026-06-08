@@ -1,0 +1,1 @@
+![[1.2 kg polobrube mouky 100 g tuku 50 g cukru 1.Al mleka 1 kostka drozo.jpeg]]
