@@ -1,4 +1,5 @@
 {
-  "promptDelete": false,
-  "attachmentFolderPath": "Apple notes/Attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
