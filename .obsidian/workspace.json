@@ -11,12 +11,14 @@
             "id": "93583ae32822838a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Apple Notes/Attachments/Pasted image 20260608113115.png"
+                "file": "Apple Notes/iCloud/Cvičení videa/vadné držení těla.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260608113115"
+              "icon": "lucide-file",
+              "title": "vadné držení těla"
             }
           }
         ]
@@ -186,6 +188,7 @@
   },
   "active": "93583ae32822838a",
   "lastOpenFiles": [
+    "Apple Notes/Attachments/Pasted image 20260608113115.png",
     "Apple Notes New/attachments/Obrázek 2.jpeg",
     "Apple Notes New/attachments/Zobrazit poslední fotky.jpeg",
     "Apple Notes New/attachments/Nová poznámka 1.jpeg",
@@ -196,7 +199,6 @@
     "Apple Notes New/attachments/Nová poznámka.jpeg",
     "Apple Notes New/attachments/IMG_4347.jpeg",
     "Apple Notes New/attachments/Zeleninové jídla 3.jpeg",
-    "Apple Notes New/attachments/Nová poznámka 2.jpeg",
     "Apple Notes New/attachments/53.pdf",
     "Apple Notes New/attachments/54.pdf",
     "Apple Notes New/iCloud/Pohyb Filda.md",
