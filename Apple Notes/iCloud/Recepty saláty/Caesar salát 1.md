@@ -1,1 +1,0 @@
-[](Apple%20Notes/IMG_2462.png)

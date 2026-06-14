@@ -1,3 +1,0 @@
-[[Nová poznámka.png]]
-
-Muffiny

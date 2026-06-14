@@ -1,0 +1,1 @@
+![[Apple Notes Old/iCloud/Recepty časopisy/Nová poznámka 4.jpeg]]
