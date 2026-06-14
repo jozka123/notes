@@ -74,7 +74,8 @@
               "title": "Záložky"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "42a2583c43266957",
+  "active": "e0335ec012c9301c",
   "lastOpenFiles": [
     "Bez názvu",
     "Bez názvu.base",
