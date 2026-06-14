@@ -1,1 +1,0 @@
-[[Apple Notes New/attachments/IMG_0976.heic]]

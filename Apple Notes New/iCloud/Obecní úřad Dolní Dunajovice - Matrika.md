@@ -1,1 +1,0 @@
-Název úřadu:[**Obecní úřad Dolní Dunajovice**](https://www.statnisprava.cz/rstsp/adresar.nsf/i/62535) **- Matrika**Adresa: Zahradní 613, 691 85 Dolní DunajoviceTelefon: 519 500 051

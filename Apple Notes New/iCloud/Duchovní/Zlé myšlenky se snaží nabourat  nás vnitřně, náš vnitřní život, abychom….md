@@ -1,1 +1,0 @@
-Pak nám kompletně zničí i život vnější.

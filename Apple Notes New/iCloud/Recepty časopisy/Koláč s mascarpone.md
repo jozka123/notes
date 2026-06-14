@@ -1,1 +1,0 @@
-[[Apple Notes New/attachments/Obrázek 4.jpeg]]
