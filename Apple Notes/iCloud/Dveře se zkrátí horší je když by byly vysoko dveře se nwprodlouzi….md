@@ -1,0 +1,1 @@
+Master barva v prštném bílá u jurasek penetrace se přidá do barvy 1 vrstvy

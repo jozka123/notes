@@ -1,0 +1,1 @@
+[](Nová%20poznámka%2031.png)

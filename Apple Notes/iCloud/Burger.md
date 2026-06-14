@@ -1,0 +1,1 @@
+[](Apple%20Notes/Nová%20poznámka%208.png)
