@@ -1,0 +1,4 @@
+# Nová poznámka
+
+![318AE700-031E-4F1F-8DF8-D7976468CF13](images/318AE700-031E-4F1F-8DF8-D7976468CF13.png)
+Česneková pomazánka

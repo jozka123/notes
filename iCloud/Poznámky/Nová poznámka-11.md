@@ -1,0 +1,4 @@
+# Nová poznámka
+
+![762629A5-4F87-437E-A472-629E014FC117](images/762629A5-4F87-437E-A472-629E014FC117.png)
+Skoricovy sneci 

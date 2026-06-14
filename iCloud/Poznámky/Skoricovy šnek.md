@@ -1,0 +1,4 @@
+# Skoricovy šnek
+
+![891B2B68-BA43-4A00-96DA-41E3CEEB6E22](images/891B2B68-BA43-4A00-96DA-41E3CEEB6E22.png)
+Skoricovy šnek
