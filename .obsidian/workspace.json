@@ -11,12 +11,14 @@
             "id": "93583ae32822838a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Apple Notes/iCloud/Recepty babička/Babička dávala do krabiček 3.jpeg"
+                "file": "Bez názvu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Babička dávala do krabiček 3"
+              "icon": "lucide-file",
+              "title": "Bez názvu"
             }
           }
         ]
@@ -184,8 +186,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "93583ae32822838a",
+  "active": "42a2583c43266957",
   "lastOpenFiles": [
+    "Bez názvu.base",
+    "Apple Notes/iCloud/Recepty babička/Babička dávala do krabiček 3.jpeg",
     "Apple Notes/iCloud/Recepty babička/Babička dávala do krabiček 1.jpeg",
     "Apple Notes/iCloud/Recepty babička/Babička dávala do krabiček.jpeg",
     "Apple Notes/iCloud/Recepty babička/20 clh a thor 3 him mashowhe rOSali Snice 4 spolohn 3.jpeg",
@@ -196,8 +200,6 @@
     "Apple Notes/Nová poznámka 30.png",
     "Apple Notes/iCloud/Recepty babička/Babička dávala do krabiček 14.jpeg",
     "Apple Notes/Nová poznámka 27.png",
-    "Apple Notes/Nová poznámka 9.jpeg",
-    "Apple Notes/Zobrazit poslední fotky.jpeg",
     "Apple Notes/iCloud/Duchovní/Akedie mrcha záludná odpor k místu kde jsem. Lékem je překvapivě zůstávání. 1.md",
     "Apple Notes/iCloud/Duchovní/Akedie mrcha záludná odpor k místu kde jsem. Lékem je překvapivě zůstávání..md",
     "Apple Notes/iCloud/Čaje/Dobrý den.md",
@@ -224,7 +226,6 @@
     "Apple Notes/iCloud/Postup.md",
     "Apple Notes/iCloud/Recepty naše/125g másla 1.md",
     "Apple Notes/iCloud/Recepty naše/Pizza tenká 1.md",
-    "Bez názvu.base",
     "Apple Notes/Na mém Macu/Recently Deleted",
     "Apple Notes/iCloud/Nedávno smazáno",
     "Bez názvu 2.base",
